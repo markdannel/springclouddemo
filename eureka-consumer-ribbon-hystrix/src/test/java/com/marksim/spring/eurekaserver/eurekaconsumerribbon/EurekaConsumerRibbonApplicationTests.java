@@ -1,11 +1,10 @@
-package com.marksim.eurekaserver.eurekaclient;
-
+package com.marksim.spring.eurekaserver.eurekaconsumerribbon;
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EurekaClientApplicationTests {
+class EurekaConsumerRibbonApplicationTests {
 
     @Test
     void contextLoads() {

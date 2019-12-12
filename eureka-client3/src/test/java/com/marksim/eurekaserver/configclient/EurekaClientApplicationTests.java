@@ -1,4 +1,4 @@
-package com.marksim.eurekaserver.configclient;
+package com.marksim.eurekaserver.eurekaclient;
 
 
 import org.junit.Test;

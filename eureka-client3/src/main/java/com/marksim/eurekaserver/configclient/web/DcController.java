@@ -1,4 +1,4 @@
-package com.marksim.eurekaserver.configclient.web;
+package com.marksim.eurekaserver.eurekaclient.web;
 
 
 import org.springframework.beans.factory.annotation.Autowired;

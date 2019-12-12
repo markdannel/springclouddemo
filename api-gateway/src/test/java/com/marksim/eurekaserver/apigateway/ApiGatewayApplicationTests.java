@@ -1,11 +1,10 @@
-package com.marksim.eurekaserver.eurekaclient;
-
+package com.marksim.eurekaserver.apigateway;
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EurekaClientApplicationTests {
+class ApiGatewayApplicationTests {
 
     @Test
     void contextLoads() {
